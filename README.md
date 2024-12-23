@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center"> Hey👋 I'm Karanam Shiva Kumar </h1>
 
 <!--
 **Karanamshivakumar22/Karanamshivakumar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
