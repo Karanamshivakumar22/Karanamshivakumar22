@@ -1,4 +1,9 @@
-<h1 align="center"> Hey👋 I'm Karanam Shiva Kumar </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hey👋+I'm+Karanam+Shiva+Kumar" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <!--
 **Karanamshivakumar22/Karanamshivakumar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
